@@ -1,0 +1,1 @@
+KMZ dosyalarını önce KML ye sonrasında da excell listesine dönüştürüyor.
